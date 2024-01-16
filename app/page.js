@@ -13,7 +13,7 @@ const page = () => {
       <div className='h-72 w-75 bg-black m-7 flex items-center justify-between p-3'>
         <Link href="Time">Title-time</Link>
         <Link href="Click">Click-speed</Link>
-        <Link href="Response">Response time</Link>
+        <Link href="Response">Response-time</Link>
       </div>
     </div>
   )
